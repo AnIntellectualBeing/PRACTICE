@@ -16,6 +16,5 @@ int gcd(int a,int b)
 int main()
 {
     cout<<gcd(24,60);
-
     return 0;
 }
