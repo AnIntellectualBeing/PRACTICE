@@ -8,6 +8,7 @@ int fun(int n)
     return fun(n-1)*n;
 }
 
+
 int main()
 {
     cout<<fun(5);
